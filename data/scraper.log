@@ -1,0 +1,310 @@
+2025-10-28 20:31:13,952 - INFO - Running API scraper for testing...
+2025-10-28 20:31:13,952 - INFO - Discovering all available health department paths...
+2025-10-28 20:31:15,156 - INFO - Discovered 223 paths to scrape.
+2025-10-28 20:31:15,156 - INFO - --- Fetching recent inspections for 'jefferson_wv' ---
+2025-10-28 20:31:19,306 - INFO - --- Fetching recent inspections for 'wa-okanogan' ---
+2025-10-28 20:31:25,066 - INFO -   New inspection found: El Tapatio #4 (wa-okanogan) on 2025-10-28 - Score: 15
+2025-10-28 20:31:25,278 - INFO -   New inspection found: Rio Grande (wa-okanogan) on 2025-10-27 - Score: 10
+2025-10-28 20:31:25,469 - INFO -   New inspection found: World Cuisine (wa-okanogan) on 2025-10-17 - Score: 35
+2025-10-28 20:31:25,665 - INFO -   New inspection found: Wagon Wheel Project LLC (wa-okanogan) on 2025-10-08 - Score: 10
+2025-10-28 20:31:25,844 - INFO -   New inspection found: Malott Country Store (wa-okanogan) on 2025-10-08 - Score: 10
+2025-10-28 20:31:26,015 - INFO -   New inspection found: Home Town Pizza - Oroville (wa-okanogan) on 2025-10-07 - Score: 10
+2025-10-28 20:31:26,191 - INFO -   New inspection found: Senior Citizen Center Oroville (wa-okanogan) on 2025-10-07 - Score: 10
+2025-10-28 20:31:26,387 - INFO -   New inspection found: Los Agaves LLC (wa-okanogan) on 2025-10-02 - Score: 15
+2025-10-28 20:31:26,546 - INFO -   New inspection found: Cowboy River (wa-okanogan) on 2025-10-01 - Score: 15
+2025-10-28 20:31:26,716 - INFO -   New inspection found: Camperos Mexican Restaurant (wa-okanogan) on 2025-10-01 - Score: 25
+2025-10-28 20:31:26,898 - INFO -   New inspection found: El Ranchero Chido (wa-okanogan) on 2025-09-30 - Score: 10
+2025-10-28 20:31:27,001 - INFO - --- Fetching recent inspections for 'brhdut' ---
+2025-10-28 20:31:34,939 - INFO - --- Fetching recent inspections for 'or-marion-county' ---
+2025-10-28 20:31:39,584 - INFO -   New inspection found: Little Caesars Pizza (or-marion-county) on 2025-10-15 - Score: 100
+2025-10-28 20:31:39,763 - INFO -   New inspection found: Lancaster Mall Stadium II (or-marion-county) on 2025-10-15 - Score: 100
+2025-10-28 20:31:39,951 - INFO -   New inspection found: Starbucks Coffee #14370 (or-marion-county) on 2025-10-15 - Score: 100
+2025-10-28 20:31:40,107 - INFO -   New inspection found: Cafe' at Barnes and Noble (or-marion-county) on 2025-10-15 - Score: 100
+2025-10-28 20:31:40,286 - INFO -   New inspection found: Kfc - Lancaster (or-marion-county) on 2025-10-15 - Score: 100
+2025-10-28 20:31:40,471 - INFO -   New inspection found: La Parranda Nightclub and Sports Bar (or-marion-county) on 2025-10-15 - Score: 97
+2025-10-28 20:31:40,667 - INFO -   New inspection found: Mcdonald's (or-marion-county) on 2025-10-15 - Score: 92
+2025-10-28 20:31:40,853 - INFO -   New inspection found: Best Little Roadhouse (or-marion-county) on 2025-10-15 - Score: 95
+2025-10-28 20:31:41,063 - INFO -   New inspection found: Jimmy John's, Redhawk Rg3 LLC (or-marion-county) on 2025-10-15 - Score: 100
+2025-10-28 20:31:41,247 - INFO -   New inspection found: Crazy Dough LLC (or-marion-county) on 2025-10-15 - Score: 89
+2025-10-28 20:31:41,460 - INFO -   New inspection found: Barfly's Grill (or-marion-county) on 2025-10-15 - Score: 89
+2025-10-28 20:31:41,654 - INFO -   New inspection found: Bo & Vine South Salem, LLC (or-marion-county) on 2025-10-15 - Score: 95
+2025-10-28 20:31:41,845 - INFO -   New inspection found: Papa John's Pizza (or-marion-county) on 2025-10-15 - Score: 100
+2025-10-28 20:31:42,033 - INFO -   New inspection found: Taco Bell (or-marion-county) on 2025-10-15 - Score: 100
+2025-10-28 20:31:42,243 - INFO -   New inspection found: La Parranda Nightclub (or-marion-county) on 2025-10-15 - Score: 100
+2025-10-28 20:31:42,428 - INFO -   New inspection found: Sofis Taqueria LLC (or-marion-county) on 2025-10-14 - Score: 100
+2025-10-28 20:31:42,633 - INFO -   New inspection found: Lucky Garden Chinese Retaurant (or-marion-county) on 2025-10-14 - Score: 92
+2025-10-28 20:31:42,826 - INFO -   New inspection found: Dreaming of Sushi (or-marion-county) on 2025-10-14 - Score: 92
+2025-10-28 20:31:43,012 - INFO -   New inspection found: SUBWAY #12705 (or-marion-county) on 2025-10-14 - Score: 95
+2025-10-28 20:31:43,188 - INFO -   New inspection found: Cooper's Deli (or-marion-county) on 2025-10-14 - Score: 100
+2025-10-28 20:31:43,363 - INFO -   New inspection found: Dede's (or-marion-county) on 2025-10-14 - Score: 97
+2025-10-28 20:31:43,547 - INFO -   New inspection found: Taqueria Los Panditas LLC (or-marion-county) on 2025-10-14 - Score: 92
+2025-10-28 20:31:43,726 - INFO -   New inspection found: Subway #6 (or-marion-county) on 2025-10-14 - Score: 100
+2025-10-28 20:31:43,910 - INFO -   New inspection found: Tienda La Jerusalem (or-marion-county) on 2025-10-14 - Score: 100
+2025-10-28 20:31:44,029 - INFO - --- Fetching recent inspections for 'va-lord-fairfax' ---
+2025-10-28 20:31:48,082 - INFO - --- Fetching recent inspections for 'fulton' ---
+2025-10-28 20:31:51,577 - INFO - --- Fetching recent inspections for 'wv-mineral' ---
+2025-10-28 20:31:55,877 - INFO - --- Fetching recent inspections for 'va-peninsula' ---
+2025-10-28 20:32:00,564 - INFO - --- Fetching recent inspections for 'aaphd' ---
+2025-10-28 20:32:04,150 - INFO -   New inspection found: Circle K # 2709220 (aaphd) on 2025-10-27 - Score: 95
+2025-10-28 20:32:04,327 - INFO -   New inspection found: Asian Buffet (aaphd) on 2025-10-27 - Score: 65
+2025-10-28 20:32:04,527 - INFO -   New inspection found: El Patron Restaurant (aaphd) on 2025-10-27 - Score: 88
+2025-10-28 20:32:04,707 - INFO -   New inspection found: Amarillo College Cafe (aaphd) on 2025-10-27 - Score: 98
+2025-10-28 20:32:04,889 - INFO -   New inspection found: Sonic Drive In (aaphd) on 2025-10-27 - Score: 95
+2025-10-28 20:32:05,064 - INFO -   New inspection found: Gorditas El Comal (aaphd) on 2025-10-27 - Score: 85
+2025-10-28 20:32:05,250 - INFO -   New inspection found: Taste of Thai (aaphd) on 2025-10-27 - Score: 97
+2025-10-28 20:32:05,470 - INFO -   New inspection found: Thai Garden (aaphd) on 2025-10-27 - Score: 86
+2025-10-28 20:32:05,642 - INFO -   New inspection found: Super Bowl Noodles (aaphd) on 2025-10-27 - Score: 82
+2025-10-28 20:32:05,846 - INFO -   New inspection found: Tru by Hilton (aaphd) on 2025-10-27 - Score: 93
+2025-10-28 20:32:06,035 - INFO -   New inspection found: Toot N Totum #55 (aaphd) on 2025-10-27 - Score: 100
+2025-10-28 20:32:06,220 - INFO -   New inspection found: Subway #25567-216 (aaphd) on 2025-10-27 - Score: 95
+2025-10-28 20:32:06,406 - INFO -   New inspection found: La Guanaca Food Truck (aaphd) on 2025-10-27 - Score: 100
+2025-10-28 20:32:06,608 - INFO -   New inspection found: Class-1 Barbeque (aaphd) on 2025-10-27 - Score: 100
+2025-10-28 20:32:06,781 - INFO -   New inspection found: Algo Rico (aaphd) on 2025-10-27 - Score: 99
+2025-10-28 20:32:06,962 - INFO -   New inspection found: La Guanaca Food Truck (aaphd) on 2025-10-27 - Score: 98
+2025-10-28 20:32:07,142 - INFO -   New inspection found: Mr. Gattis (aaphd) on 2025-10-24 - Score: 86
+2025-10-28 20:32:07,320 - INFO -   New inspection found: Amarillo Residence Inn (aaphd) on 2025-10-24 - Score: 95
+2025-10-28 20:32:07,525 - INFO -   New inspection found: Longhorn Steakhouse #5552 (aaphd) on 2025-10-24 - Score: 98
+2025-10-28 20:32:07,702 - INFO -   New inspection found: Fairfield Amarillo West Medical Center (aaphd) on 2025-10-24 - Score: 91
+2025-10-28 20:32:07,887 - INFO -   New inspection found: Buc-ee's Amarillo (aaphd) on 2025-10-24 - Score: 91
+2025-10-28 20:32:08,081 - INFO -   New inspection found: Little Caesars Pizza (aaphd) on 2025-10-24 - Score: 97
+2025-10-28 20:32:08,266 - INFO -   New inspection found: Freds Place (aaphd) on 2025-10-24 - Score: 100
+2025-10-28 20:32:08,462 - INFO -   New inspection found: Popeyes (aaphd) on 2025-10-24 - Score: 93
+2025-10-28 20:32:08,672 - INFO -   New inspection found: Best Western (aaphd) on 2025-10-24 - Score: 99
+2025-10-28 20:32:08,794 - INFO - --- Fetching recent inspections for 'clarkcountywa' ---
+2025-10-28 20:32:14,321 - INFO -   New inspection found: JS TEST (clarkcountywa) on 2025-09-16 - Score: 30
+2025-10-28 20:32:14,504 - INFO -   New inspection found: Domino's Pizza (clarkcountywa) on 2025-03-12 - Score: 42
+2025-10-28 20:32:14,680 - INFO -   New inspection found: Test Smok'n BBQ (clarkcountywa) on 2025-02-06 - Score: 58
+2025-10-28 20:32:14,800 - INFO - --- Fetching recent inspections for 'fbceh' ---
+2025-10-28 20:32:19,081 - INFO -   New inspection found: Subway #42209 (fbceh) on 2025-10-28 - Score: 95
+2025-10-28 20:32:19,293 - INFO -   New inspection found: Pei Wei Asian Kitchen (fbceh) on 2025-10-28 - Score: 91
+2025-10-28 20:32:19,488 - INFO -   New inspection found: Café Yasmeen BBQ & Grill & Ballroom (fbceh) on 2025-10-28 - Score: 95
+2025-10-28 20:32:19,666 - INFO -   New inspection found: Labanjee Exxon (fbceh) on 2025-10-28 - Score: 91
+2025-10-28 20:32:19,840 - INFO -   New inspection found: Jus+Bol Superfood Bar (fbceh) on 2025-10-28 - Score: 91
+2025-10-28 20:32:20,025 - INFO -   New inspection found: Snowfox - K 336 (fbceh) on 2025-10-28 - Score: 98
+2025-10-28 20:32:20,212 - INFO -   New inspection found: Madden Elementary School (fbceh) on 2025-10-28 - Score: 100
+2025-10-28 20:32:20,396 - INFO -   New inspection found: Super K Food Store #1 (fbceh) on 2025-10-28 - Score: 91
+2025-10-28 20:32:20,587 - INFO -   New inspection found: Kilwins Chocolates and Ice Cream (fbceh) on 2025-10-28 - Score: 97
+2025-10-28 20:32:20,765 - INFO -   New inspection found: Yogi-India Grocers (fbceh) on 2025-10-28 - Score: 94
+2025-10-28 20:32:20,955 - INFO -   New inspection found: HEB #724 (Tokyo Gardens Catering - Sushiya) (fbceh) on 2025-10-27 - Score: 97
+2025-10-28 20:32:21,138 - INFO -   New inspection found: HEB #724 (Produce) (fbceh) on 2025-10-27 - Score: 100
+2025-10-28 20:32:21,311 - INFO -   New inspection found: Tamarron Elementary School (fbceh) on 2025-10-27 - Score: 98
+2025-10-28 20:32:21,520 - INFO -   New inspection found: HEB #724 (Meat & Seafood) (fbceh) on 2025-10-27 - Score: 95
+2025-10-28 20:32:21,715 - INFO -   New inspection found: Bespoke Childlife (fbceh) on 2025-10-27 - Score: 96
+2025-10-28 20:32:21,962 - INFO -   New inspection found: Drip Dessert Lounge (fbceh) on 2025-10-27 - Score: 87
+2025-10-28 20:32:22,149 - INFO -   New inspection found: HEB #724 (Deli-Hot) (fbceh) on 2025-10-27 - Score: 99
+2025-10-28 20:32:22,327 - INFO -   New inspection found: TOKU ASIAN BISTRO (fbceh) on 2025-10-27 - Score: 84
+2025-10-28 20:32:22,513 - INFO -   New inspection found: Mahek Indian Restaurant (fbceh) on 2025-10-27 - Score: 88
+2025-10-28 20:32:22,713 - INFO -   New inspection found: HEB #724 (Bakery & Tortilleria) (fbceh) on 2025-10-27 - Score: 94
+2025-10-28 20:32:22,887 - INFO -   New inspection found: HEB #724 (Deli-Cold) (fbceh) on 2025-10-27 - Score: 99
+2025-10-28 20:32:23,090 - INFO -   New inspection found: HEB #724 (Grocery/Whse/Seasonal Crawfish) (fbceh) on 2025-10-27 - Score: 100
+2025-10-28 20:32:23,278 - INFO -   New inspection found: Kathleen Joerger Lindsey Elementary School (fbceh) on 2025-10-27 - Score: 100
+2025-10-28 20:32:23,447 - INFO -   New inspection found: Custom Caterers (fbceh) on 2025-10-27 - Score: 68
+2025-10-28 20:32:23,634 - INFO -   New inspection found: Time Mart # 26 (fbceh) on 2025-10-27 - Score: 95
+2025-10-28 20:32:23,753 - INFO - --- Fetching recent inspections for 'or-lane-county' ---
+2025-10-28 20:32:27,807 - INFO -   New inspection found: Thai Chin-gon (or-lane-county) on 2025-10-15 - Score: 100
+2025-10-28 20:32:28,011 - INFO -   New inspection found: Pieology Pizzeria (or-lane-county) on 2025-10-15 - Score: 87
+2025-10-28 20:32:28,203 - INFO -   New inspection found: Starbucks Coffee #11201 (or-lane-county) on 2025-10-15 - Score: 100
+2025-10-28 20:32:28,395 - INFO -   New inspection found: Chao Pra Ya (or-lane-county) on 2025-10-15 - Score: 100
+2025-10-28 20:32:28,588 - INFO -   New inspection found: Denny's #6363 (or-lane-county) on 2025-10-15 - Score: 97
+2025-10-28 20:32:28,772 - INFO -   New inspection found: Moke's Coffee & Kitchen (or-lane-county) on 2025-10-15 - Score: 100
+2025-10-28 20:32:28,955 - INFO -   New inspection found: Don Juan Mexican Restaurant (or-lane-county) on 2025-10-15 - Score: 89
+2025-10-28 20:32:29,149 - INFO -   New inspection found: Kohi Time Coffee Counter (or-lane-county) on 2025-10-15 - Score: 90
+2025-10-28 20:32:29,323 - INFO -   New inspection found: Long Tom Bar & Grill (or-lane-county) on 2025-10-14 - Score: 94
+2025-10-28 20:32:29,499 - INFO -   New inspection found: Jamba Juice (or-lane-county) on 2025-10-14 - Score: 100
+2025-10-28 20:32:29,675 - INFO -   New inspection found: Cafe Verso (or-lane-county) on 2025-10-14 - Score: 97
+2025-10-28 20:32:29,867 - INFO -   New inspection found: Farmers Union Coffee Roasters (or-lane-county) on 2025-10-14 - Score: 100
+2025-10-28 20:32:30,050 - INFO -   New inspection found: Bao Bao Time, LLC (or-lane-county) on 2025-10-14 - Score: 90
+2025-10-28 20:32:30,269 - INFO -   New inspection found: Old Spaghetti Factory, The (or-lane-county) on 2025-10-14 - Score: 100
+2025-10-28 20:32:30,450 - INFO -   New inspection found: All American Yogurt (or-lane-county) on 2025-10-14 - Score: 94
+2025-10-28 20:32:30,664 - INFO -   New inspection found: Cup of Joe Coffee LLC (or-lane-county) on 2025-10-14 - Score: 100
+2025-10-28 20:32:30,855 - INFO -   New inspection found: Cuisine India (or-lane-county) on 2025-10-14 - Score: 78
+2025-10-28 20:32:31,044 - INFO -   New inspection found: Saigon Cafe (or-lane-county) on 2025-10-14 - Score: 89
+2025-10-28 20:32:31,215 - INFO -   New inspection found: Wetzel's Pretzels, by Regal (or-lane-county) on 2025-10-14 - Score: 76
+2025-10-28 20:32:31,323 - INFO - --- Fetching recent inspections for 'boone' ---
+2025-10-28 20:32:34,771 - INFO - --- Fetching recent inspections for 'va-western-tidewater' ---
+2025-10-28 20:32:37,971 - INFO - --- Fetching recent inspections for 'gbph' ---
+2025-10-28 20:32:38,536 - INFO -   Initial attempt for 'gbph' returned no data. Retrying with 'Food' program filter.
+2025-10-28 20:33:08,545 - ERROR - Failed to retrieve data from API for path 'gbph'. Error: Failed to perform, curl: (28) Operation timed out after 30002 milliseconds with 0 bytes received. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2025-10-28 20:33:08,556 - WARNING - No data returned from API for 'gbph' or API format has changed.
+2025-10-28 20:33:12,370 - INFO - --- Fetching recent inspections for 'hancock' ---
+2025-10-28 20:33:16,267 - INFO - --- Fetching recent inspections for 'beckleyraleigh' ---
+2025-10-28 20:33:19,450 - INFO - --- Fetching recent inspections for 'az-santa-cruz' ---
+2025-10-28 20:33:22,828 - INFO -   New inspection found: LIV'S BOBA CAFE (az-santa-cruz) on 2025-10-23 - Score: 100
+2025-10-28 20:33:23,000 - INFO -   New inspection found: LITTLE CAESARS PIZZA (az-santa-cruz) on 2025-10-23 - Score: 96.5
+2025-10-28 20:33:23,178 - INFO -   New inspection found: FOOD CITY (az-santa-cruz) on 2025-10-22 - Score: 99
+2025-10-28 20:33:23,355 - INFO -   New inspection found: FOOD CITY (az-santa-cruz) on 2025-10-22 - Score: 98
+2025-10-28 20:33:23,551 - INFO -   New inspection found: FOOD CITY (az-santa-cruz) on 2025-10-22 - Score: 91.5
+2025-10-28 20:33:23,755 - INFO -   New inspection found: FOOD CITY (az-santa-cruz) on 2025-10-22 - Score: 95.5
+2025-10-28 20:33:23,940 - INFO -   New inspection found: PRONGHORN PIZZA LLC (az-santa-cruz) on 2025-10-21 - Score: 99
+2025-10-28 20:33:24,137 - INFO -   New inspection found: Corner Scoop (az-santa-cruz) on 2025-10-21 - Score: 90.5
+2025-10-28 20:33:24,311 - INFO -   New inspection found: High Caliber Nutrition LLC (az-santa-cruz) on 2025-10-20 - Score: 90
+2025-10-28 20:33:24,486 - INFO -   New inspection found: ANTOJITOS MEXICAN FOOD (az-santa-cruz) on 2025-10-20 - Score: 100
+2025-10-28 20:33:24,686 - INFO -   New inspection found: Chucherias Y Mas Los Minis (az-santa-cruz) on 2025-10-15 - Score: 95
+2025-10-28 20:33:24,864 - INFO -   New inspection found: CARACU LATIN STEAK HOUSE (az-santa-cruz) on 2025-10-15 - Score: 94
+2025-10-28 20:33:25,088 - INFO -   New inspection found: PIZZA HUT (az-santa-cruz) on 2025-10-15 - Score: 99
+2025-10-28 20:33:25,243 - INFO -   New inspection found: CITY SALADS (az-santa-cruz) on 2025-10-13 - Score: 100
+2025-10-28 20:33:25,424 - INFO -   New inspection found: LA CATEDRAL BAKERY #2 (az-santa-cruz) on 2025-10-13 - Score: 96
+2025-10-28 20:33:25,628 - INFO -   New inspection found: PATAGONIA PUBLIC SCHOOLS (az-santa-cruz) on 2025-10-13 - Score: 97
+2025-10-28 20:33:25,800 - INFO -   New inspection found: Chipotle Mexican Grill (az-santa-cruz) on 2025-10-13 - Score: 97.5
+2025-10-28 20:33:25,978 - INFO -   New inspection found: SUBWAY (az-santa-cruz) on 2025-10-10 - Score: 98
+2025-10-28 20:33:26,179 - INFO -   New inspection found: HUA MEI RESTAURANT (az-santa-cruz) on 2025-10-10 - Score: 88.5
+2025-10-28 20:33:26,350 - INFO -   New inspection found: PANDA EXPRESS #2055 (az-santa-cruz) on 2025-10-09 - Score: 96.5
+2025-10-28 20:33:26,469 - INFO - --- Fetching recent inspections for 'bhsj' ---
+2025-10-28 20:33:26,786 - INFO -   Initial attempt for 'bhsj' returned no data. Retrying with 'Food' program filter.
+2025-10-28 20:33:56,792 - ERROR - Failed to retrieve data from API for path 'bhsj'. Error: Failed to perform, curl: (28) Operation timed out after 30002 milliseconds with 0 bytes received. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2025-10-28 20:33:56,796 - WARNING - No data returned from API for 'bhsj' or API format has changed.
+2025-10-28 20:34:00,094 - INFO - --- Fetching recent inspections for 'adams-wa' ---
+2025-10-28 20:34:00,696 - INFO -   Initial attempt for 'adams-wa' returned no data. Retrying with 'Food' program filter.
+2025-10-28 20:34:30,703 - ERROR - Failed to retrieve data from API for path 'adams-wa'. Error: Failed to perform, curl: (28) Operation timed out after 30001 milliseconds with 0 bytes received. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2025-10-28 20:34:30,706 - WARNING - No data returned from API for 'adams-wa' or API format has changed.
+2025-10-28 20:34:33,220 - INFO - --- Fetching recent inspections for 'tetonwy' ---
+2025-10-28 20:34:37,318 - INFO - --- Fetching recent inspections for 'sacramento' ---
+2025-10-28 20:34:42,025 - INFO - --- Fetching recent inspections for 'ut-saltlake-county' ---
+2025-10-28 20:34:42,350 - INFO -   Initial attempt for 'ut-saltlake-county' returned no data. Retrying with 'Food' program filter.
+2025-10-28 20:35:12,357 - ERROR - Failed to retrieve data from API for path 'ut-saltlake-county'. Error: Failed to perform, curl: (28) Operation timed out after 30002 milliseconds with 0 bytes received. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2025-10-28 20:35:12,362 - WARNING - No data returned from API for 'ut-saltlake-county' or API format has changed.
+2025-10-28 20:35:16,356 - INFO - --- Fetching recent inspections for 'hssupport' ---
+2025-10-28 20:35:16,656 - INFO -   Initial attempt for 'hssupport' returned no data. Retrying with 'Food' program filter.
+2025-10-28 20:35:46,663 - ERROR - Failed to retrieve data from API for path 'hssupport'. Error: Failed to perform, curl: (28) Operation timed out after 30002 milliseconds with 0 bytes received. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2025-10-28 20:35:46,669 - WARNING - No data returned from API for 'hssupport' or API format has changed.
+2025-10-28 20:35:50,048 - INFO - --- Fetching recent inspections for 'cheyenne-laramie' ---
+2025-10-28 20:35:54,585 - INFO - --- Fetching recent inspections for 'il-ogle-county' ---
+2025-10-28 20:35:54,903 - INFO -   Initial attempt for 'il-ogle-county' returned no data. Retrying with 'Food' program filter.
+2025-10-28 20:36:24,997 - ERROR - Failed to retrieve data from API for path 'il-ogle-county'. Error: Failed to perform, curl: (28) Operation timed out after 30002 milliseconds with 0 bytes received. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2025-10-28 20:36:25,002 - WARNING - No data returned from API for 'il-ogle-county' or API format has changed.
+2025-10-28 20:36:28,497 - INFO - --- Fetching recent inspections for 'wv-grafton-taylor' ---
+2025-10-28 20:36:32,315 - INFO - --- Fetching recent inspections for 'dallas' ---
+2025-10-28 20:36:36,737 - INFO -   New inspection found: TAQUERIA LA PROVIDENCIA (dallas) on 2025-10-28 - Score: 85
+2025-10-28 20:36:36,934 - INFO -   New inspection found: EL FENIX (dallas) on 2025-10-28 - Score: 87
+2025-10-28 20:36:37,142 - INFO -   New inspection found: NORTHWOOD CLUB (dallas) on 2025-10-28 - Score: 99
+2025-10-28 20:36:37,358 - INFO -   New inspection found: LA ACADEMIA DE ESTRELLAS (dallas) on 2025-10-28 - Score: 97
+2025-10-28 20:36:37,542 - INFO -   New inspection found: KONA GRILL (dallas) on 2025-10-28 - Score: 89
+2025-10-28 20:36:37,735 - INFO -   New inspection found: ALDI FOOD STORE #43 (dallas) on 2025-10-28 - Score: 100
+2025-10-28 20:36:37,937 - INFO -   New inspection found: FUJISAN SUSHI (dallas) on 2025-10-28 - Score: 99
+2025-10-28 20:36:38,108 - INFO -   New inspection found: MARTIN WEISS SCHOOL (dallas) on 2025-10-28 - Score: 95
+2025-10-28 20:36:38,308 - INFO -   New inspection found: LA ACADEMIA DE ESTRELLAS CAFETERIA (dallas) on 2025-10-28 - Score: 100
+2025-10-28 20:36:38,474 - INFO -   New inspection found: JOULE HOTEL (dallas) on 2025-10-28 - Score: 99
+2025-10-28 20:36:38,649 - INFO -   New inspection found: LSV Foods Inc (dallas) on 2025-10-28 - Score: 85
+2025-10-28 20:36:38,831 - INFO -   New inspection found: Pegasus School of Liberal Arts and Science (dallas) on 2025-10-28 - Score: 100
+2025-10-28 20:36:39,013 - INFO -   New inspection found: P F CHANG'S CHINA BISTRO (dallas) on 2025-10-28 - Score: 91
+2025-10-28 20:36:39,218 - INFO -   New inspection found: NORTHWOOD CLUB (dallas) on 2025-10-28 - Score: 98
+2025-10-28 20:36:39,421 - INFO -   New inspection found: LA PAISANITA DELI (dallas) on 2025-10-28 - Score: 90
+2025-10-28 20:36:39,582 - INFO -   New inspection found: RHOADS LEARNING CENTER (dallas) on 2025-10-28 - Score: 88
+2025-10-28 20:36:39,774 - INFO -   New inspection found: MARISCOS LA RIVIERA NAYARIT (dallas) on 2025-10-28 - Score: 84
+2025-10-28 20:36:39,957 - INFO -   New inspection found: JOULE HOTEL (dallas) on 2025-10-28 - Score: 93
+2025-10-28 20:36:40,154 - INFO -   New inspection found: ORALE FOOD MART (dallas) on 2025-10-28 - Score: 80
+2025-10-28 20:36:40,347 - INFO -   New inspection found: MARIA MORENO STEAM ACADEMY (dallas) on 2025-10-28 - Score: 99
+2025-10-28 20:36:40,545 - INFO -   New inspection found: NORTH ITALIA (dallas) on 2025-10-28 - Score: 88
+2025-10-28 20:36:40,725 - INFO -   New inspection found: BROOKLYN PIZZERIA (dallas) on 2025-10-28 - Score: 80
+2025-10-28 20:36:40,898 - INFO -   New inspection found: FAJITA PETE'S (dallas) on 2025-10-28 - Score: 93
+2025-10-28 20:36:41,090 - INFO -   New inspection found: NORTHWOOD CLUB (dallas) on 2025-10-28 - Score: 98
+2025-10-28 20:36:41,269 - INFO -   New inspection found: SCHLOTZSKYS (dallas) on 2025-10-28 - Score: 94
+2025-10-28 20:36:41,416 - INFO - --- Fetching recent inspections for 'st-clair-county' ---
+2025-10-28 20:36:45,578 - INFO - --- Fetching recent inspections for 'or-klamath-county' ---
+2025-10-28 20:36:50,440 - INFO -   New inspection found: El Toro Bravo (or-klamath-county) on 2025-10-15 - Score: 92
+2025-10-28 20:36:50,630 - INFO -   New inspection found: Cactus J Restaurant (or-klamath-county) on 2025-10-15 - Score: 79
+2025-10-28 20:36:50,837 - INFO -   New inspection found: Hope Street Farmstand on Main Street (or-klamath-county) on 2025-10-15 - Score: 100
+2025-10-28 20:36:51,004 - INFO -   New inspection found: Sugar Pine Treats - Mobile (or-klamath-county) on 2025-10-15 - Score: 100
+2025-10-28 20:36:51,193 - INFO -   New inspection found: Casa Villanueva Restaurant LLC (or-klamath-county) on 2025-10-14 - Score: 92
+2025-10-28 20:36:51,385 - INFO -   New inspection found: Veros Tacos LLC - Jalapeno's Commissary (or-klamath-county) on 2025-10-14 - Score: 100
+2025-10-28 20:36:51,591 - INFO -   New inspection found: Polar Bear (or-klamath-county) on 2025-10-14 - Score: 95
+2025-10-28 20:36:51,768 - INFO -   New inspection found: Tacos Ala Mexicana (or-klamath-county) on 2025-10-14 - Score: 71
+2025-10-28 20:36:51,951 - INFO -   New inspection found: Jalapenos Taco Shop - Mobile (or-klamath-county) on 2025-10-14 - Score: 100
+2025-10-28 20:36:52,135 - INFO -   New inspection found: K & K Espresso & Deli (or-klamath-county) on 2025-10-14 - Score: 92
+2025-10-28 20:36:52,344 - INFO -   New inspection found: K & K Espresso & Deli Warehouse (or-klamath-county) on 2025-10-14 - Score: 100
+2025-10-28 20:36:52,544 - INFO -   New inspection found: Pappys & Co. L.l.c. (or-klamath-county) on 2025-10-14 - Score: 97
+2025-10-28 20:36:52,730 - INFO -   New inspection found: The Water Hole 2 (or-klamath-county) on 2025-10-14 - Score: 95
+2025-10-28 20:36:52,906 - INFO -   New inspection found: Dutch Bros. - 201 (or-klamath-county) on 2025-10-13 - Score: 100
+2025-10-28 20:36:53,074 - INFO -   New inspection found: Dutch Bros. - Washburn Way (or-klamath-county) on 2025-10-13 - Score: 95
+2025-10-28 20:36:53,242 - INFO -   New inspection found: Dutch Bros. - 3045 (or-klamath-county) on 2025-10-13 - Score: 92
+2025-10-28 20:36:53,445 - INFO -   New inspection found: Cruz's Taco Commissary (or-klamath-county) on 2025-10-13 - Score: 100
+2025-10-28 20:36:53,628 - INFO -   New inspection found: Dutch Bros. Coffee Commissary (or-klamath-county) on 2025-10-13 - Score: 100
+2025-10-28 20:36:53,811 - INFO -   New inspection found: Dutch Bros Llc - Campus (or-klamath-county) on 2025-10-13 - Score: 95
+2025-10-28 20:36:54,010 - INFO -   New inspection found: La Perla (or-klamath-county) on 2025-10-13 - Score: 100
+2025-10-28 20:36:54,190 - INFO -   New inspection found: Dutch Bros Coffee. - 5805 (or-klamath-county) on 2025-10-13 - Score: 100
+2025-10-28 20:36:54,372 - INFO -   New inspection found: Dutch Bros. Coffee Wh - 5805 (or-klamath-county) on 2025-10-13 - Score: 100
+2025-10-28 20:36:54,488 - INFO - --- Fetching recent inspections for 'phs' ---
+2025-10-28 20:36:54,780 - INFO -   Initial attempt for 'phs' returned no data. Retrying with 'Food' program filter.
+2025-10-28 20:37:24,787 - ERROR - Failed to retrieve data from API for path 'phs'. Error: Failed to perform, curl: (28) Operation timed out after 30002 milliseconds with 0 bytes received. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2025-10-28 20:37:24,795 - WARNING - No data returned from API for 'phs' or API format has changed.
+2025-10-28 20:37:27,129 - INFO - --- Fetching recent inspections for 'ffhd' ---
+2025-10-28 20:37:30,775 - INFO - --- Fetching recent inspections for 'walla-walla' ---
+2025-10-28 20:37:31,069 - INFO -   Initial attempt for 'walla-walla' returned no data. Retrying with 'Food' program filter.
+2025-10-28 20:38:01,123 - ERROR - Failed to retrieve data from API for path 'walla-walla'. Error: Failed to perform, curl: (28) Operation timed out after 30002 milliseconds with 0 bytes received. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2025-10-28 20:38:01,142 - WARNING - No data returned from API for 'walla-walla' or API format has changed.
+2025-10-28 20:38:04,049 - INFO - --- Fetching recent inspections for 'scph' ---
+2025-10-28 20:38:08,672 - INFO -   New inspection found: 1307MAR (scph) on 2025-10-28 - Score: -1
+2025-10-28 20:38:08,831 - INFO - --- Fetching recent inspections for 'virginia' ---
+2025-10-28 20:38:12,384 - INFO -   Initial attempt for 'virginia' returned no data. Retrying with 'Food' program filter.
+2025-10-28 20:38:42,391 - ERROR - Failed to retrieve data from API for path 'virginia'. Error: Failed to perform, curl: (28) Operation timed out after 30001 milliseconds with 0 bytes received. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2025-10-28 20:38:42,397 - WARNING - No data returned from API for 'virginia' or API format has changed.
+2025-10-28 20:38:45,207 - INFO - --- Fetching recent inspections for 'va-chesterfield' ---
+2025-10-28 20:38:49,166 - INFO - --- Fetching recent inspections for 'il-pike-county' ---
+2025-10-28 20:38:53,725 - INFO - --- Fetching recent inspections for 'bfhd' ---
+2025-10-28 20:38:56,795 - INFO -   New inspection found: Albertson's #228 (Bakery) (bfhd) on 2025-10-22 - Score: 3
+2025-10-28 20:38:56,989 - INFO -   New inspection found: Tapteal Elementary School (bfhd) on 2025-10-08 - Score: 100
+2025-10-28 20:38:57,109 - INFO - --- Fetching recent inspections for 'va-chickahominy' ---
+2025-10-28 20:39:00,269 - INFO - --- Fetching recent inspections for 'dkchd' ---
+2025-10-28 20:39:04,074 - INFO - --- Fetching recent inspections for 'co-douglas-county' ---
+2025-10-28 20:39:04,376 - INFO -   Initial attempt for 'co-douglas-county' returned no data. Retrying with 'Food' program filter.
+2025-10-28 20:39:34,380 - ERROR - Failed to retrieve data from API for path 'co-douglas-county'. Error: Failed to perform, curl: (28) Operation timed out after 30000 milliseconds with 0 bytes received. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2025-10-28 20:39:34,385 - WARNING - No data returned from API for 'co-douglas-county' or API format has changed.
+2025-10-28 20:39:38,323 - INFO - --- Fetching recent inspections for 'chd' ---
+2025-10-28 20:39:42,990 - INFO - --- Fetching recent inspections for 'harrisonclarksburg' ---
+2025-10-28 20:39:47,273 - INFO - --- Fetching recent inspections for 'weldcounty' ---
+2025-10-28 20:39:51,048 - INFO -   New inspection found: LA MARIPOSA RESTAURANT & MARGARITA HOUSE-COMMISSARY (weldcounty) on 2025-10-28 - Score: 10
+2025-10-28 20:39:51,229 - INFO -   New inspection found: COCINA & CANTINA MEXICAN RESTAURANT (weldcounty) on 2025-10-28 - Score: 27
+2025-10-28 20:39:51,427 - INFO -   New inspection found: BURGER KING 17340 (weldcounty) on 2025-10-28 - Score: 10
+2025-10-28 20:39:51,605 - INFO -   New inspection found: WINCHELLS DONUT HOUSE (weldcounty) on 2025-10-28 - Score: 64
+2025-10-28 20:39:51,802 - INFO -   New inspection found: MERCANTILE EXCHANGE & PROVISIONS LLC-COMMISSARY (weldcounty) on 2025-10-27 - Score: 70
+2025-10-28 20:39:51,992 - INFO -   New inspection found: DOMINO'S PIZZA 6226 (weldcounty) on 2025-10-27 - Score: 30
+2025-10-28 20:39:52,182 - INFO -   New inspection found: TAQUERIA LOS COMALES-COMMISSARY (weldcounty) on 2025-10-27 - Score: 45
+2025-10-28 20:39:52,372 - INFO -   New inspection found: DAIRY QUEEN (weldcounty) on 2025-10-24 - Score: 37
+2025-10-28 20:39:52,562 - INFO -   New inspection found: JFE SUSHI (weldcounty) on 2025-10-24 - Score: 12
+2025-10-28 20:39:52,729 - INFO -   New inspection found: JARRITOS TACO SHACK LLC (weldcounty) on 2025-10-24 - Score: 30
+2025-10-28 20:39:52,912 - INFO -   New inspection found: PANADERIA QUETZAL (weldcounty) on 2025-10-24 - Score: 20
+2025-10-28 20:39:53,116 - INFO -   New inspection found: ROMA RESTAURANT (weldcounty) on 2025-10-24 - Score: 57
+2025-10-28 20:39:53,307 - INFO -   New inspection found: FIREHOUSE SUBS (weldcounty) on 2025-10-24 - Score: 10
+2025-10-28 20:39:53,512 - INFO -   New inspection found: CARNICERIA EL TORO BRAVO (weldcounty) on 2025-10-24 - Score: 30
+2025-10-28 20:39:53,694 - INFO -   New inspection found: LITTLE CAESARS # 3154-0010 (weldcounty) on 2025-10-24 - Score: 11
+2025-10-28 20:39:53,890 - INFO -   New inspection found: MARCOS PIZZA (weldcounty) on 2025-10-24 - Score: 30
+2025-10-28 20:39:54,079 - INFO -   New inspection found: BERRY BLENDZ (weldcounty) on 2025-10-24 - Score: 10
+2025-10-28 20:39:54,187 - INFO - --- Fetching recent inspections for 'il-msh-county' ---
+2025-10-28 20:39:58,329 - INFO - --- Fetching recent inspections for 'anaheim-fire-and-rescue' ---
+2025-10-28 20:39:58,638 - INFO -   Initial attempt for 'anaheim-fire-and-rescue' returned no data. Retrying with 'Food' program filter.
+2025-10-28 20:40:28,644 - ERROR - Failed to retrieve data from API for path 'anaheim-fire-and-rescue'. Error: Failed to perform, curl: (28) Operation timed out after 30002 milliseconds with 0 bytes received. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2025-10-28 20:40:28,652 - WARNING - No data returned from API for 'anaheim-fire-and-rescue' or API format has changed.
+2025-10-28 20:40:31,527 - INFO - --- Fetching recent inspections for 'berkeley' ---
+2025-10-28 20:40:38,204 - INFO - --- Fetching recent inspections for 'arizona' ---
+2025-10-28 20:40:38,538 - INFO -   Initial attempt for 'arizona' returned no data. Retrying with 'Food' program filter.
+2025-10-28 20:41:08,543 - ERROR - Failed to retrieve data from API for path 'arizona'. Error: Failed to perform, curl: (28) Operation timed out after 30002 milliseconds with 0 bytes received. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2025-10-28 20:41:08,548 - WARNING - No data returned from API for 'arizona' or API format has changed.
+2025-10-28 20:41:10,970 - INFO - --- Fetching recent inspections for 'henry-stark' ---
+2025-10-28 20:41:15,814 - INFO - --- Fetching recent inspections for 'or-linn-county' ---
+2025-10-28 20:41:18,812 - INFO -   New inspection found: Del Taco (or-linn-county) on 2025-10-15 - Score: 97
+2025-10-28 20:41:18,986 - INFO -   New inspection found: Applebee's Neighborhood Grill & Bar (or-linn-county) on 2025-10-15 - Score: 100
+2025-10-28 20:41:19,194 - INFO -   New inspection found: Abbys Legendary Pizza (or-linn-county) on 2025-10-15 - Score: 100
+2025-10-28 20:41:19,362 - INFO -   New inspection found: Bodhi Artisan Bakery (or-linn-county) on 2025-10-14 - Score: 89
+2025-10-28 20:41:19,547 - INFO -   New inspection found: Alex's Eats Warehouse (or-linn-county) on 2025-10-14 - Score: 97
+2025-10-28 20:41:19,747 - INFO -   New inspection found: Dairy Queen Restaurant/Albany (or-linn-county) on 2025-10-14 - Score: 100
+2025-10-28 20:41:19,925 - INFO -   New inspection found: Vito's Trattoria (or-linn-county) on 2025-10-14 - Score: 71
+2025-10-28 20:41:20,111 - INFO -   New inspection found: Kentucky Fried Chicken Albany (or-linn-county) on 2025-10-14 - Score: 97
+2025-10-28 20:41:20,291 - INFO -   New inspection found: Alex's Eats LLC (or-linn-county) on 2025-10-14 - Score: 81
+2025-10-28 20:41:20,482 - INFO -   New inspection found: Curry Ops. LLC (or-linn-county) on 2025-10-13 - Score: 86
+2025-10-28 20:41:20,671 - INFO -   New inspection found: K's Latte Da LLC (or-linn-county) on 2025-10-13 - Score: 100
+2025-10-28 20:41:20,852 - INFO -   New inspection found: Tacos El Machin (or-linn-county) on 2025-10-13 - Score: 77
+2025-10-28 20:41:21,033 - INFO -   New inspection found: Daniel's Tacos (or-linn-county) on 2025-10-13 - Score: 75
+2025-10-28 20:41:21,233 - INFO -   New inspection found: Ping's (or-linn-county) on 2025-10-10 - Score: 95
+2025-10-28 20:41:21,423 - INFO -   New inspection found: Muchas Gracias Mexican Food (or-linn-county) on 2025-10-10 - Score: 100
+2025-10-28 20:41:21,604 - INFO -   New inspection found: Little Caesars Pizza (or-linn-county) on 2025-10-10 - Score: 95
+2025-10-28 20:41:21,778 - INFO -   New inspection found: Carl's Jr Restaurant #7070 (or-linn-county) on 2025-10-10 - Score: 100
+2025-10-28 20:41:21,960 - INFO -   New inspection found: Chipotle Mexican Grill #3455 (or-linn-county) on 2025-10-10 - Score: 100
+2025-10-28 20:41:22,139 - INFO -   New inspection found: The Rusty Bucket Tap House (or-linn-county) on 2025-10-10 - Score: 90
+2025-10-28 20:41:22,357 - INFO -   New inspection found: Taqueria Dos Arbolitos (or-linn-county) on 2025-10-10 - Score: 97
+2025-10-28 20:41:22,494 - INFO - --- Fetching recent inspections for 'oregon-tobacco' ---
+2025-10-28 20:41:25,980 - INFO - --- Fetching recent inspections for 'nc-transylvania' ---
+2025-10-28 20:41:26,287 - INFO -   Initial attempt for 'nc-transylvania' returned no data. Retrying with 'Food' program filter.
+2025-10-28 20:41:56,295 - ERROR - Failed to retrieve data from API for path 'nc-transylvania'. Error: Failed to perform, curl: (28) Operation timed out after 30002 milliseconds with 0 bytes received. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2025-10-28 20:41:56,302 - WARNING - No data returned from API for 'nc-transylvania' or API format has changed.
+2025-10-28 20:41:59,727 - INFO - --- Fetching recent inspections for 'sonoma' ---
+2025-10-28 20:42:00,050 - INFO -   Initial attempt for 'sonoma' returned no data. Retrying with 'Food' program filter.

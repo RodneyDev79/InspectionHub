@@ -1,2 +1,8 @@
 pandas
-requests
+tweepy
+moviepy
+python-dotenv
+beautifulsoup4
+lxml
+curl_cffi
+mysql-connector-python
